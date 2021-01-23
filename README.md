@@ -1,5 +1,5 @@
-# About esx_vehiclespawner:
-Vehicle Spawner for ESX V1 Final or EXM - Made by Human Tree92 ([Velociti Entertainment Customs & Wiki](http://www.velocitientertainment.com/customs/))
+# Required
+This script requieres es_extended tu work as it's dependancy
 
 # Creating Issues
 * Check the [Closed Topics](https://github.com/HumanTree92/esx_vehiclespawner/issues?q=is%3Aissue+is%3Aclosed) & [Wiki](http://www.velocitientertainment.com/customs/) before opening an issue to see if your issue has already been Answered.
