@@ -1,5 +1,5 @@
 # Required
-This script requieres es_extended tu work as it's dependancy
+This script requieres [es_extended](https://github.com/esx-framework/es_extended) to work as it's dependancy
 
 # Creating Issues
 * Check the [Closed Topics](https://github.com/HumanTree92/esx_vehiclespawner/issues?q=is%3Aissue+is%3Aclosed) & [Wiki](http://www.velocitientertainment.com/customs/) before opening an issue to see if your issue has already been Answered.
@@ -70,3 +70,7 @@ This program Is free software: you can redistribute it And/Or modify it under th
 This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
 
 You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
+
+# Credits
+
+I have mainly done this script by myself but really appreciate some of my coworker's help (HectorRos)
